@@ -1,0 +1,15 @@
+C:\Mon_Code\Power of recursion\bin\Debug\net7.0\Power of recursion.exe
+C:\Mon_Code\Power of recursion\bin\Debug\net7.0\Power of recursion.deps.json
+C:\Mon_Code\Power of recursion\bin\Debug\net7.0\Power of recursion.runtimeconfig.json
+C:\Mon_Code\Power of recursion\bin\Debug\net7.0\Power of recursion.dll
+C:\Mon_Code\Power of recursion\bin\Debug\net7.0\Power of recursion.pdb
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.csproj.AssemblyReference.cache
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.AssemblyInfoInputs.cache
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.AssemblyInfo.cs
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.dll
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\refint\Power of recursion.dll
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.pdb
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\Power of recursion.genruntimeconfig.cache
+C:\Mon_Code\Power of recursion\obj\Debug\net7.0\ref\Power of recursion.dll
